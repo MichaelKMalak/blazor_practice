@@ -13,56 +13,76 @@ namespace WebApplication1.Pages
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
+#nullable restore
 #line 1 "c:\WebApplication1\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 2 "c:\WebApplication1\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 3 "c:\WebApplication1\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 4 "c:\WebApplication1\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 5 "c:\WebApplication1\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 6 "c:\WebApplication1\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 7 "c:\WebApplication1\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 8 "c:\WebApplication1\_Imports.razor"
 using WebApplication1;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 9 "c:\WebApplication1\_Imports.razor"
 using WebApplication1.Shared;
 
 #line default
 #line hidden
+#nullable disable
+#nullable restore
 #line 3 "c:\WebApplication1\Pages\FetchData.razor"
 using WebApplication1.Data;
 
 #line default
 #line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -71,6 +91,7 @@ using WebApplication1.Data;
         {
         }
         #pragma warning restore 1998
+#nullable restore
 #line 39 "c:\WebApplication1\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
@@ -82,6 +103,7 @@ using WebApplication1.Data;
 
 #line default
 #line hidden
+#nullable disable
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private WeatherForecastService ForecastService { get; set; }
     }
 }
