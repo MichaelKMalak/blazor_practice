@@ -45,3 +45,5 @@ c:\SampleBlazor1\obj\Debug\netcoreapp3.1\SampleBlazor1.Views.pdb
 c:\SampleBlazor1\obj\Debug\netcoreapp3.1\SampleBlazor1.dll
 c:\SampleBlazor1\obj\Debug\netcoreapp3.1\SampleBlazor1.pdb
 C:\SampleBlazor1\obj\Debug\netcoreapp3.1\SampleBlazor1.csproj.CopyComplete
+c:\SampleBlazor1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Todo.razor.g.cs
+c:\SampleBlazor1\obj\Debug\netcoreapp3.1\Razor\Pages\Todo.razor.g.cs
